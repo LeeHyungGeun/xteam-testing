@@ -2,7 +2,7 @@
 
 ## Run
 ``` bash
-yarn install
+> yarn install
 
-yarn run test
+>yarn run test
 ```
